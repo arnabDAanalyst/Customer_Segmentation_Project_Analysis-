@@ -1,4 +1,4 @@
-# Customer Segmentation
+# Customer Segmentation by PostgreSQL
 
 ![Postgresql](https://github.com/user-attachments/assets/8e40a3a5-f005-4935-ba41-0a0ef6c77b99)
 
@@ -57,10 +57,32 @@
 
 10. Which customer segment contributes the most revenue?
 
-11. Who are the top 10% revenue-generating customers? 
+11. Who are the top 10% revenue-generating customers?
 
-12. Which product category should market focus on? 
 
-13. Are Repeat Customers More Valuable Than New Ones?
+# Customer Segmentation Created by PowerBI
+
+![Customer Segmentation Analysis Dashboard](https://github.com/user-attachments/assets/49548a90-c916-42f8-a9d1-d5a04cd5259a)
+
+
+1.	Total Revenue
+
+2.	Total Orders per Customer
+
+3.	Revenue per Customer
+
+4.	Total Orders
+
+5.	Which Month Has the Most Orders?
+
+6.	Customer by Segment
+
+7.	Which Age Group Has the Most Orders?
+
+8.	Repeat vs New Customers count 
+
+13. Which product category should market focus on? 
+
+14. Are Repeat Customers More Valuable Than New Ones?
 
 
