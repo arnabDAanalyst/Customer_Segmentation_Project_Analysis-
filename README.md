@@ -32,10 +32,11 @@
 13.	Top Cities by Revenue
 
 
-<img width="562" height="504" alt="Revenue Contribution by Customer Segment" src="https://github.com/user-attachments/assets/e085adc7-b94a-4d2d-9e9f-f86939c2f609" />
-
 
 # Python Business Analysis Questions
+
+<img width="562" height="504" alt="Revenue Contribution by Customer Segment" src="https://github.com/user-attachments/assets/e085adc7-b94a-4d2d-9e9f-f86939c2f609" />
+
 
 1. Which customers generate the highest revenue?
 
